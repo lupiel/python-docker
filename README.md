@@ -89,3 +89,8 @@ curl http://localhost:8000/widgets
 docker compose -f docker-compose.dev.yml up --build
 ```
 
+### configure CI/CD
+See [link](.github/workflows/main.yml)
+```
+docker login -u <docker-hub-username>
+```
