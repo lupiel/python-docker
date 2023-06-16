@@ -94,3 +94,6 @@ See [link](.github/workflows/main.yml)
 ```
 docker login -u <docker-hub-username>
 ```
+
+
+Prepared based on [https://docs.docker.com/language/python/](https://docs.docker.com/language/python/)
